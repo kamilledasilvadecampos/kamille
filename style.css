@@ -1,7 +1,7 @@
-body{background-color:#ebebeb;}
+body{background-color:#000000;}
 
 h1{text-align:center;
-  background-black:#000000;}
+  background-color:rgb(3, 27, 243);}
 
 p{text-align:center;   
-  background-red:#ff0000;}
+  background-color:aquamarine;}
